@@ -67,6 +67,3 @@ Model performansı aşağıdaki metriklerle değerlendirilmiştir:
 
 Ayrıca:
 - Gerçek değerler ile tahmin edilen değerler karşılaştırılarak görsel bir grafik oluşturulmuştur.
-
-
-
